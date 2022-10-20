@@ -3,3 +3,4 @@ kočka
 prase
 kuře
 velbloud
+husa
