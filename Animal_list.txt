@@ -2,3 +2,4 @@ pes
 kočka
 prase
 kuře
+velbloud
